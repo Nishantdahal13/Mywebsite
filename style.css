@@ -1,0 +1,14 @@
+body {
+    background-color: #121212; /* This is a dark grey color */
+    color: #ffffff; /* This is white color */
+}
+
+/* If you have any other elements like headers, paragraphs, links etc., you can add styles for them too. For example: */
+
+h1, h2, h3, h4, h5, h6, p {
+    color: #ffffff; /* This will make the text color white */
+}
+
+a {
+    color: #bb86fc; /* This will make the link color a light purple */
+}
